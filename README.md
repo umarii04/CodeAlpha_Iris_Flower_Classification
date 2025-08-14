@@ -46,7 +46,7 @@ The Iris dataset is loaded directly from scikit-learn's datasets module, so no m
 The notebook demonstrates the process of training and evaluating different machine learning models for Iris flower classification, with accuracy metrics and visualizations.
 
 ## Author
-- Code Alpha Task 1
+- Muhammad Umar Farooqi
 
 ---
 
